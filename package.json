@@ -10,7 +10,6 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "firebase": "^7.20.0",
-    "regenerator-runtime": "^0.13.7",
     "v-calendar": "^1.0.8",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
@@ -34,5 +33,17 @@
     "vue-cli-plugin-vuetify": "~2.0.7",
     "vue-template-compiler": "^2.6.11",
     "vuetify-loader": "^1.3.0"
-  }
+  },
+  "description": "## Project setup ``` yarn install ```",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qkrwlgh91/vf2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qkrwlgh91/vf2/issues"
+  },
+  "homepage": "https://github.com/qkrwlgh91/vf2#readme"
 }
